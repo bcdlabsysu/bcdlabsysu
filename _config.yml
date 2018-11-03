@@ -104,7 +104,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : # "Somewhere"
-  email            :
+  email            : mouyi5@mail.sysu.edu.cn
   uri              : # http://222.200.170.55:8081/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
