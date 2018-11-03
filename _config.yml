@@ -102,7 +102,7 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "联系我们：mouyi5@mail.sysu.edu.cn"
+  bio              : "联系我们：\nmouyi5@mail.sysu.edu.cn"
   location         : # "Somewhere"
   email            : 
   uri              : # http://222.200.170.55:8081/
