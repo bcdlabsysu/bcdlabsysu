@@ -102,9 +102,9 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "联系我们：mouyi5@mail.sysu.edu.cn"
   location         : # "Somewhere"
-  email            : mouyi5@mail.sysu.edu.cn
+  email            : 
   uri              : # http://222.200.170.55:8081/
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
