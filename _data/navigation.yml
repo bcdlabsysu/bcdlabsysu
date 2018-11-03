@@ -8,7 +8,7 @@ main:
   - title: 科研论文
     url: /
   - title: 成员
-    url: /
+    url: /fellow/
 
 docs:
   - title: 值班表
