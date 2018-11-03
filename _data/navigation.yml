@@ -1,18 +1,14 @@
 main:
-  - title: 实验室建设
-    url: /docs/rota/
-  - title: 项目介绍
-    url: /QandA/navigation/
-  - title: 发表论文
-    url: /docs/01_sign_up_tutorials/
-  # - title: "Tags"
-  #   url: /tags/
-  # - title: "Pages"
-  #   url: /page-archive/
-  # - title: "Collections"
-  #   url: /collection-archive/
-  # - title: "External Link"
-  #   url: https://neutrino3316.github.io/balyspusys/docs/sign-up-tutorials/
+  - title: 实验室介绍
+    url: /
+  - title: 实验室动态
+    url: /
+  - title: 研究项目
+    url: /
+  - title: 科研论文
+    url: /
+  - title: 成员
+    url: /
 
 docs:
   - title: 值班表
