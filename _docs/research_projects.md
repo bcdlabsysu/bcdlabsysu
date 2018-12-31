@@ -1,6 +1,6 @@
 ---
 title: "研究项目"
-permalink: /Research projects/
+permalink: /research_projects/
 last_modified_at: 2018-12-29T19:59:00+08:00
 toc: true
 toc_sticky: true
