@@ -1,9 +1,8 @@
 ---
 title: "研究项目"
 permalink: /research_projects/
-last_modified_at: 2018-12-29T19:59:00+08:00
-toc: true
-toc_sticky: true
+last_modified_at: 2019-01-26T11:14:24+08:00
+
 
 ---
 

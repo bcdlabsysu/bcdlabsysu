@@ -1,8 +1,9 @@
 ---
 permalink: /fellow/
 title: "成员"
-toc: true
-toc_sticky: true
+last_modified_at: 2019-01-26T11:14:24+08:00
+
+
 ---
 
 # 主要研究者
