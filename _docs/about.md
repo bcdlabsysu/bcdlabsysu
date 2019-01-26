@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "实验室介绍"
+excerpt: "这个实验室的介绍"
 last_modified_at: 2019-01-26T11:14:24+08:00
 
 
