@@ -11,7 +11,9 @@
     不用管
 - [x] 李和泽的email是否为1192409005@qq.com，我好像没见过qqmail.com后续的
     已改
-- [ ] 刘梦婷的email是否为liumt8@mail2.sysu.edu.cn，mail.sysu.edu.cn后续应该是教职工专用的，学生的是mail2.sysu.edu.cn
-- [ ] 刘琴的email是否为liuq258@mail2.sysu.edu.cn，mail.sysu.edu.cn后续应该是教职工专用的，学生的是mail2.sysu.edu.cn
+- [x] 刘梦婷的email是否为liumt8@mail2.sysu.edu.cn，mail.sysu.edu.cn后续应该是教职工专用的，学生的是mail2.sysu.edu.cn
+    已改
+- [x] 刘琴的email是否为liuq258@mail2.sysu.edu.cn，mail.sysu.edu.cn后续应该是教职工专用的，学生的是mail2.sysu.edu.cn
+    已改
 - [ ] 汪少聪的自我介绍第一行，“我到汪少聪”是否应该改为“我是汪少聪”
 
