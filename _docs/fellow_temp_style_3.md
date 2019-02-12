@@ -14,7 +14,13 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 <img src={{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg width = "300" height = "200" alt="图片名称" align=center />
 ```
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg =100x100)
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:class="img-responsive"}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="50%" width="50%"}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="100px" width="400px"}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){: .align-center}
 
 牟毅
 
