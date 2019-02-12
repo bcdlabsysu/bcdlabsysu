@@ -14,6 +14,8 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 <img src={{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg width = "300" height = "200" alt="图片名称" align=center />
 ```
 
+{% <img src={{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg /> %}
+
 牟毅
 
 - Email: mouyi5@mail.sysu.edu.cn
