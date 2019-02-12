@@ -10,7 +10,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg)
 
-牟毅
+**牟毅**
 
 - Email: mouyi5@mail.sysu.edu.cn
 
@@ -24,7 +24,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg)
 
-蒋映盈
+**蒋映盈**
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
@@ -33,7 +33,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg)
 
-李沛沛
+**李沛沛**
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -44,7 +44,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg)
 
-陈光
+**陈光**
 
 - Email: 825999464@qq.com
 
@@ -52,7 +52,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/杜佳瑶.jpg)
 
-杜佳瑶
+**杜佳瑶**
 
 - Email: dujy9@mail2.sysu.edu.cn
 
@@ -60,7 +60,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/贺文珍.jpg)
 
-贺文珍
+**贺文珍**
 
 - Email: hewzh7@mail2.sysu.edu.cn
 
@@ -70,7 +70,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg)
 
-李和泽
+**李和泽**
 
 - Email: 1192409005@qq.com
 
@@ -79,7 +79,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg)
 
-刘梦婷
+**刘梦婷**
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -89,7 +89,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg)
 
-刘琴
+**刘琴**
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -99,7 +99,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg)
 
-吕建相
+**吕建相**
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
@@ -107,7 +107,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg)
 
-毛伙敏
+**毛伙敏**
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -117,7 +117,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/谭云龙.jpg)
 
-谭云龙
+**谭云龙**
 
 - Email: tanylong@mail2.sysu.edu.cn
 
@@ -125,7 +125,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/汪少聪.jpg)
 
-汪少聪
+**汪少聪**
 
 - Email: 1175775696@qq.com
 
@@ -135,7 +135,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/吴倩文.jpg)
 
-吴倩文
+**吴倩文**
 
 - Email: wuchienw@mail.sysu.edu.cn
 
