@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "BCD 实验室"
+title                    : "中山大学心理学系脑与认知发展实验室\nBrain and Cognitive Development Lab at SYSU"
 title_separator          : "-"
-name                     : "脑与认知发展实验室"
+name                     : "BCD lab"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
