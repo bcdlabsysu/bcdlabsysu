@@ -1,6 +1,4 @@
 main:
-  - title: 实验室介绍
-    url: /about/
   - title: 实验室动态
     url: /developments/
   - title: 研究项目
@@ -11,3 +9,5 @@ main:
     url: /fellow/
   - title: 合作单位
     url: /collaborators/
+  - title: 联系我们
+    url: /contact_us/
