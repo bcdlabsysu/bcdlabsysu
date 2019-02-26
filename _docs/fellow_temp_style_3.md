@@ -10,7 +10,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="50%" width="50%"}
 
-牟毅
+## 牟毅
 
 - Email: mouyi5@mail.sysu.edu.cn
 
@@ -24,7 +24,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg)
 
-蒋映盈
+## 蒋映盈
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
@@ -33,7 +33,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg)
 
-李沛沛
+## 李沛沛
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -44,7 +44,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg)
 
-陈光
+## 陈光
 
 - Email: 825999464@qq.com
 
@@ -52,7 +52,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/杜佳瑶.jpg)
 
-杜佳瑶
+## 杜佳瑶
 
 - Email: dujy9@mail2.sysu.edu.cn
 
@@ -60,7 +60,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/贺文珍.jpg)
 
-贺文珍
+## 贺文珍
 
 - Email: hewzh7@mail2.sysu.edu.cn
 
@@ -70,7 +70,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg)
 
-李和泽
+## 李和泽
 
 - Email: 1192409005@qq.com
 
@@ -79,7 +79,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg)
 
-刘梦婷
+## 刘梦婷
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -89,7 +89,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg)
 
-刘琴
+## 刘琴
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -99,7 +99,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg)
 
-吕建相
+## 吕建相
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
@@ -107,7 +107,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg)
 
-毛伙敏
+## 毛伙敏
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -117,7 +117,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/谭云龙.jpg)
 
-谭云龙
+## 谭云龙
 
 - Email: tanylong@mail2.sysu.edu.cn
 
@@ -125,7 +125,7 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/汪少聪.jpg)
 
-汪少聪
+## 汪少聪
 
 - Email: 1175775696@qq.com
 
@@ -135,21 +135,9 @@ last_modified_at: 2019-02-12T21:10:24+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/吴倩文.jpg)
 
-吴倩文
+## 吴倩文
 
 - Email: wuchienw@mail.sysu.edu.cn
 
 15级应用心理学本科生，主修课程为《发展心理学》、《儿童认知神经发展研究》、《情绪心理学》以及《语言心理学》。曾担任心理学系学生会主席团助理，曾获中山大学先进个人、台湾学生奖学金二等奖等奖项。有着多方面的实习经历，如中国南方航空人力资源部门、广东省广博报堂整合有限公司市场策划部等。
 感兴趣的研究方向为，儿童数理能力与空间能力的相关，包括学前儿童非符号数字表征能力与数字空间定位能力（心理数线任务）、儿童数字空间定位能力与时间空间定位能力的相关、及儿童（小学）数字空间/时间空间定位能力的空间能力预测作用等研究方向。
-
-
-
-
-
-
-
-
-
-
-# 主要合作机构
-
