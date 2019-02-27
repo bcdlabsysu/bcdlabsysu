@@ -8,9 +8,9 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 # 主要研究者
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="50%" width="50%"}
-
 ## 牟毅
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: mouyi5@mail.sysu.edu.cn
 
