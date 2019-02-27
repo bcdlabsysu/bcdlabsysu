@@ -103,7 +103,7 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "中山大学心理学系脑与认知发展实验室\nBrain and Cognitive Development Lab at SYSU"
+  bio              : "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
   location         : # "Somewhere"
   email            : 
   uri              : # http://222.200.170.55:8081/
