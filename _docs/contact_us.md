@@ -20,7 +20,7 @@ last_modified_at: 2019-02-26T11:14:24+08:00
 
 公共微信：
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/wechat.png){:height="75%" width="75%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/wechat.png){:height="25%" width="25%"}
 
 ## 报名
 
