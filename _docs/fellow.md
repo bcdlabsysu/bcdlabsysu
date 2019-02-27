@@ -22,18 +22,18 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 # 研究生(按姓氏字母排序)
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg)
-
 ## 蒋映盈
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
 我是蒋映盈，一个土生土长的四川人。中山大学2018级研究生，目前是牟毅教授课题组（BCD Lab）成员之一。
 我感兴趣的研究方向是儿童珠心算学习与其常规数学学习之间心理机制上的差异、珠心算学习对于注意缺陷障碍（ADD）个体是否有积极的干预效果；gesture在儿童数学学习过程中所扮演的角色。珠心算和gesture都属于课题组主要研究方向之一：儿童数认知的范畴。同时我感兴趣的儿童空间认知推理能力等研究领域也是课题组的研究方向。对我研究方向或者是对课题组感兴趣的同学，欢迎大家邮件联系。也十分期待未来有更多小伙伴加入BCD Lab！
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg)
-
 ## 李沛沛
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -42,25 +42,25 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 # 本科生(按姓氏字母排序)
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg)
-
 ## 陈光
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: 825999464@qq.com
 
 陈光，男，2015级本科生，主要感兴趣的方向有：人类对零的认知发展（学习符号化数字之前），数字-空间联合编码效应的来源和机制（SNARC effect），音高-空间联合编码效应的来源和机制（SMARC effect），不同通道的数认知机制等。也希望做一些设计精巧的动物行为研究来探究一些生物与生俱来的认知能力机制。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/杜佳瑶.jpg)
-
 ## 杜佳瑶
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/杜佳瑶.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: dujy9@mail2.sysu.edu.cn
 
 我是杜佳瑶，17级心理学系本科生。我目前还在探索自己感兴趣的具体方向，现在对社会神经方向，工业心理学和青少年的发展心理学比较感兴趣，正在牟毅老师的教导和帮助下学习有关负数的SNARC效应的研究。我在牟毅老师的BCD实验室跟随老师学习的一年时间里，了解了很多有关发展心理学的知识和技能，也积累了一些实践的经验。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/贺文珍.jpg)
-
 ## 贺文珍
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/贺文珍.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: hewzh7@mail2.sysu.edu.cn
 
@@ -68,18 +68,18 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 目前我对学龄前儿童的数认知能力感兴趣，比如儿童后天习得的符号化与生而具有的非符号化数理能力之间的发展关系、儿童对符号与非符号加工的转换能力等。除了对正常儿童的关注，我还对孤独症儿童的数认知能力感兴趣——上帝是否为他们关上一道门，但开启了一扇窗？孤独症儿童是否牺牲了面孔辨别的敏感性，但在数敏感上优于同龄同等智力的正常儿童？
 欢迎一起交流，我的E-mail：hewzh7@mail2.sysu.edu.cn；也期待新成员加入我们超棒的实验室！
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg)
-
 ## 李和泽
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: 1192409005@qq.com
 
 中山大学2016级的心理学系本科生，目前在牟毅老师的儿童脑和认知发展实验室学习。主修为心理，选修过发展心理学、实验心理学、认知心理学、意识及神经基础、早期智力开发等科目。
 除了实验室主要的儿童数理能力发展的研究方向以外，还对儿童肢体语言和数字理解之间的关系有一定兴趣，例如比划数字是否增强（辅助）对数数的理解。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg)
-
 ## 刘梦婷
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -87,9 +87,9 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 主要感兴趣的研究方向：儿童的智能发展、认知过程及行为习惯的形成机制，从根源找到问题并解决问题。人际关系及社会关系，如亲密关系的形成、维持等。成人的视觉搜索，心理咨询，以及计算机等新型机器在各方面的的应用。
 曾参与的课程项目：发展心理学儿童语言发展特点的探究；变态心理学正念教养对高三学生内隐自杀意念的影响——反刍思维作为中介；颜色数量和亮度对比对视觉搜索效率的影响（眼动实验）。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg)
-
 ## 刘琴
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -97,17 +97,17 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 主要感兴趣的研究方向：儿童对数的认识的典型过程、儿童及青少年的社交发展、儿童与成人在典型认知过程上的差异、成人视觉搜索方面、正常儿童与有障碍的儿童对于数的差异、心理咨询方面、消费心理学以及金融方面的知识。
 曾参与过的课程项目：发展心理学皮亚杰发展阶段的探究；颜色数量和亮度对比对视觉搜索效率的影响等。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg)
-
 ## 吕建相
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
 大家好，我是2015级本科生吕建相。主要的研究兴趣是婴幼儿逻辑推理（如婴儿什么时候能进行传递性推理，儿童的推理能力与数学学习的关系），婴幼儿对零的理解（如儿童什么时候才能把零当作是数字中的一员），儿童分数学习的特点等。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg)
-
 ## 毛伙敏
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -115,17 +115,17 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 2015年在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”
 目前对儿童数认知发展领域十分感兴趣，希望可以继续了解并深入探索！
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/谭云龙.jpg)
-
 ## 谭云龙
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/谭云龙.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: tanylong@mail2.sysu.edu.cn
 
 我叫谭云龙，2015级应用心理学专业，目前的研究兴趣以及方向是语言发展及阅读障碍。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/汪少聪.jpg)
-
 ## 汪少聪
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/汪少聪.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: 1175775696@qq.com
 
@@ -133,9 +133,9 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 对于心理学这一学科，我有着极大的热情和相对充实的知识储备。尤其是对儿童研究中的数认知发展有较大的兴趣，暂定接下去的研究方向为此。
 我性格开朗，为人稳重，活力充沛，同时又有着极强的责任心，处理事情有条理，我希望能通过工作和学习不断丰富自己，充实自己。
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吴倩文.jpg)
-
 ## 吴倩文
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/吴倩文.jpg){:height="50%" width="50%"}{: .align-left}
 
 - Email: wuchienw@mail.sysu.edu.cn
 
