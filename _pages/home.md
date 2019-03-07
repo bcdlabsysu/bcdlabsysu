@@ -17,3 +17,14 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 想参加我们的研究吗？[点击这里！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_1.jpg){:height="50%" width="50%"}{: .align-left}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_2.jpg){:height="50%" width="50%"}{: .align-left}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_3.jpg){:height="50%" width="50%"}{: .align-left}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_4.jpg){:height="50%" width="50%"}{: .align-left}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_5.jpg){:height="50%" width="50%"}{: .align-left}
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_6.jpg){:height="50%" width="50%"}{: .align-left}
