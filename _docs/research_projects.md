@@ -5,6 +5,8 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_5.jpg){:height="50%" width="50%"}{: .align-center}
+
 # 实验室项目简述：
 
 1. 儿童和成人对面孔数量的表征和加工。

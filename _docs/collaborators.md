@@ -6,6 +6,9 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
 
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_2.jpg){:height="50%" width="50%"}{: .align-center}
+
 ## 合作实验室
 
 - [中科院心理研究所认知与发展国家重点实验室朱莉琪课题组](http://sourcedb.psych.cas.cn/en/epsychexpert/200907/t20090714_2073871.html)

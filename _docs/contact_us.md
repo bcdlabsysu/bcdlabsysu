@@ -6,6 +6,8 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_3.jpg){:height="50%" width="50%"}{: .align-center}
+
 ## 联系方式
 
 电话：15626191391

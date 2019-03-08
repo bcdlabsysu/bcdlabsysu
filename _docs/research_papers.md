@@ -6,6 +6,8 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_4.jpg){:height="50%" width="50%"}{: .align-center}
+
 - [Choi, Y., Mou, Y.**,** & Luo, Y. (2018). How do 3-month-old infants attribute preferences to a human agent? *Journal of Experimental Child Psychology, 172,* 96-106.](https://bcdlabsysu.github.io/bcdlabsysu/assert/papers/How do 3-month-old infants attribute preferences to a human agent .pdf)
 - Mou, Y., Berteletti, I., & Hyde, D. C. (2018). What counts in preschool number knowledge? A Bayes factor analytic approach towards theoretical model development. *Journal of Experimental Child Psychology*. *166,* 116-133.
 - [Luo, Y., Hennefield, L., Mou, Y., vanMarle, K., & Markson, L. (2017). Infants’ understanding of preferences when agents make inconsistent choices. *Infancy. 22,* 843-856.](https://bcdlabsysu.github.io/bcdlabsysu/assert/papers/Infants’ understanding of preferences when agents make inconsistent choices. Infancy.pdf)
