@@ -17,3 +17,14 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 - [The Infant Cognition Lab at the University of Missouri](http://faculty.missouri.edu/luoy/)
 - [The Cognitive Development Lab at the University of Missouri](http://faculty.missouri.edu/~gearyd/index.html) 
 - [脑与数学认知实验室](http://www.dweipsy.com/mathbrain/index.jsp)
+
+
+
+## 合作医疗/教育机构
+- [广州市海珠区江海街社区卫生服务中心]
+- [广州市小谷围街中心幼儿园]
+- [广州市大学城幼儿园]
+- [广州市番禺实验幼儿园]
+- [广州市海韵幼儿园]
+- [深圳市首地容御幼儿园]
+- [深圳市大新幼儿园]
