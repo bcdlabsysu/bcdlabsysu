@@ -131,7 +131,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘琴
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="50%" width="50%"}{: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="50%" width="50%"}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -142,7 +142,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 吕建相
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="50%" width="50%"}{: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="50%" width="50%"}
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
