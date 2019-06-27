@@ -1,7 +1,7 @@
 ---
 permalink: /developments/
 title: "实验室动态"
-last_modified_at: 2019-02-27T19:00:00+08:00
+last_modified_at: 2019-06-27T19:00:00+08:00
 
 
 ---
