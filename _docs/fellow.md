@@ -28,7 +28,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 蒋映盈
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="50%" width="50%"}{: .align-up}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="50%" width="50%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
@@ -36,20 +36,19 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 我感兴趣的研究方向是儿童珠心算学习与其常规数学学习之间心理机制上的差异、珠心算学习对于注意缺陷障碍（ADD）个体是否有积极的干预效果；gesture在儿童数学学习过程中所扮演的角色。珠心算和gesture都属于课题组主要研究方向之一：儿童数认知的范畴。同时我感兴趣的儿童空间认知推理能力等研究领域也是课题组的研究方向。对我研究方向或者是对课题组感兴趣的同学，欢迎大家邮件联系。也十分期待未来有更多小伙伴加入BCD Lab！
 
 <br>
-
 ## 李沛沛
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="50%" width="50%"}{: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="50%" width="50%"}
 
 - Email: lipeipei@gd.chinamobile.com
 
 李沛沛，18级硕士研究生（单考班），现就职于中国移动集团中移在线服务有限公司，全国五一巾帼标兵，国家三级心理咨询师，家有萌宝一枚，成长型家庭教育实践者，个人公众号“麦田起舞”，专注女性个人成长分享及儿童教育心理学知识普及。
 热爱心理学，尤其儿童发展心理学，感兴趣的研究方向为：儿童数学与空间逻辑认知发展、儿童智力发展、儿童数能力与语言能力、性别差异及家庭学校教育方式等方面的关系。
 
-
+<br>
 ## 毛伙敏
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="50%" width="50%"}{: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="50%" width="50%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -58,17 +57,13 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 目前对儿童数认知发展领域十分感兴趣，希望可以继续了解并深入探索！
 
 <br>
-
-
 ## 娜菲沙·阿布都麦明
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="50%" width="50%"}{: .align-left}
-
+![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="50%" width="50%"}
 
 我叫娜菲沙，就读于中大心理系，2018级专硕。我喜欢看剧看书，偶尔会去游泳，很喜欢和小朋友打交道。目前的研究兴趣是文化和语言差异对儿童数理认知发展的影响。
 
 <br>
-
 ## 曾丽萍
 
 <br>
@@ -78,7 +73,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 陈光
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="50%" width="50%"}{: .align-left}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="50%" width="50%"}
 
 - Email: 825999464@qq.com
 
