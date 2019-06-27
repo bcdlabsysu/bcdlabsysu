@@ -1,9 +1,9 @@
 main:
-  - title: 实验室动态
+  - title: 新闻
     url: /developments/
   - title: 研究项目
     url: /research_projects/
-  - title: 科研论文
+  - title: 论文
     url: /research_papers/
   - title: 成员
     url: /fellow/
