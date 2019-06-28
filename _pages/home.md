@@ -12,4 +12,5 @@ last_modified_at: 2019-03-07T20:00:00+08:00
 感谢您对我们研究的关注和支持！
 
 如果您自己或者您想带孩子来参加我们的研究，[请点击这里！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
+
 如果您是学生，想加入我们实验室工作学习，[请点击这里！](https://bcdlabsysu.github.io/bcdlabsysu/contact_us/)
