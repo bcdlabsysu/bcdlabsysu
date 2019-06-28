@@ -138,6 +138,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 ## 肖慧兰
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/肖慧兰.jpg){:height="50%" width="50%"}
+
 - Email: @mail2.sysu.edu.cn
 
 18级心理学系本科生。目前跟从牟毅导师学习认知发展心理学。我爱好中长跑、阅读推理小说和看电影。研究兴趣方面包括心理测量、性别差异及原因等。
@@ -145,8 +146,10 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 ## 张婉婷
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="50%" width="50%"}
-- Email: @mail2.sysu.edu.cn
 
+- Email: zhangwt37@mail2.sysu.edu.cn
+
+16级本科生。目前准备开展成人/儿童分数概念认知的相关研究。感兴趣的方面有：儿童数认知、数学教育（包括加强概念理解和兴趣培养等）等。希望能长期学习过程中，在老师同学的帮助下，构建关于儿童数认知的理论框架。兴趣广泛，欢迎互相交流。
 
 # 系外合作本科生(按姓氏字母排序)
 
