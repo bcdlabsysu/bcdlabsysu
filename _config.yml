@@ -305,7 +305,7 @@ defaults:
       type: docs
     values:
       sidebar:
-        - title: "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
