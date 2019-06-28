@@ -294,9 +294,11 @@ defaults:
       path: ""
       type: docs
     values:
+      sidebar:
+        nav: "docs"
       layout: single
       classes: wide
       read_time: false
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
