@@ -6,9 +6,6 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
 
-
-![]({{ site.url }}{{ site.baseurl }}/assert/images/0306_2.jpg){:height="50%" width="50%"}{: .align-center}
-
 ## 合作实验室
 
 - [中科院心理研究所认知与发展国家重点实验室朱莉琪课题组](http://sourcedb.psych.cas.cn/en/epsychexpert/200907/t20090714_2073871.html)
@@ -22,6 +19,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 合作医疗/教育机构
 - 广州市海珠区江海街社区卫生服务中心
+- 广州市青少年心理辅导协会
 - 广州市小谷围街中心幼儿园
 - 广州市大学城幼儿园
 - 广州市番禺实验幼儿园
