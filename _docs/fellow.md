@@ -10,24 +10,24 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 牟毅
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="30%" width="30%"}
 
 - Email: mouyi5@mail.sysu.edu.cn
 
-数、物体、空间认知及逻辑推理从婴儿到成人的毕生发展；特殊儿童（如自闭症）的认知发展；研究采用行为和脑电等多种测量方法。
+主要研究兴趣包括数、物体、空间认知及逻辑推理从婴儿到成人的毕生发展；特殊儿童（如自闭症）的认知发展；研究采用行为和脑电等多种测量方法。
 
-任职经历
+任职经历：
 
-2017-至今  中山大学心理学系副教授
+- 2017-至今  中山大学心理学系副教授
 
-2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
+- 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
 
 
 # 研究生(按姓氏字母排序)
 
 ## 郭芳芳
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="30%" width="30%"}
 
 - Email: 
 
@@ -35,16 +35,15 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 蒋映盈
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="30%" width="30%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
-一个土生土长的四川人。中山大学2018级研究生，目前是牟毅教授课题组成员。
-我感兴趣的研究方向是儿童珠心算学习与其常规数学学习之间心理机制上的差异、珠心算学习对于注意缺陷障碍（ADD）个体是否有积极的干预效果；gesture在儿童数学学习过程中所扮演的角色。珠心算和gesture都属于课题组主要研究方向之一：儿童数认知的范畴。同时我感兴趣的儿童空间认知推理能力等研究领域也是课题组的研究方向。对我研究方向或者是对课题组感兴趣的同学，欢迎大家邮件联系。也十分期待未来有更多小伙伴加入BCD Lab！
+中山大学2018级研究生，目前是牟毅教授课题组成员。 我感兴趣的研究方向是儿童珠心算学习与其常规数学学习之间心理机制上的差异、珠心算学习对于注意缺陷障碍（ADD）个体是否有积极的干预效果；gesture在儿童数学学习过程中所扮演的角色。珠心算和gesture都属于课题组主要研究方向之一：儿童数认知的范畴。同时我感兴趣的儿童空间认知推理能力等研究领域也是课题组的研究方向。十分期待未来有更多小伙伴加入BCD Lab！
 <br>
 ## 李沛沛
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="30%" width="30%"}
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -53,7 +52,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘美莹
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹.jpg){:height="30%" width="30%"}
 
 - Email: 
 
@@ -61,7 +60,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 毛伙敏
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="30%" width="30%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -70,13 +69,13 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 娜菲沙·阿布都麦明
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="30%" width="30%"}
 
 就读于中大心理系，2018级专硕。我喜欢看剧看书，偶尔会去游泳，很喜欢和小朋友打交道。目前的研究兴趣是文化和语言差异对儿童数理认知发展的影响。
 <br>
 ## 曾丽萍
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/曾丽萍.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/曾丽萍.jpg){:height="30%" width="30%"}
 
 18级应用心理学硕士在职研究生，从事高中语文教学七年，喜欢阅读文学，心理学，哲学等书籍，爱好瑜伽，爬山等，感兴趣的研究方向为：学校心理（学习动机、心理健康教育），青少年情绪障碍与心理健康，社会心理（亲密关系、两性差异等）。e-mail:victory88855@126.com
 
@@ -84,7 +83,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 陈光
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="30%" width="30%"}
 
 - Email: 825999464@qq.com
 
@@ -92,7 +91,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 陈诗婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈诗婷.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈诗婷.jpg){:height="30%" width="30%"}
 
 - Email: 
 
@@ -100,7 +99,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 李和泽
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="30%" width="30%"}
 
 - Email: 1192409005@qq.com
 
@@ -109,7 +108,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘梦婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="30%" width="30%"}
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -119,7 +118,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘琴
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="30%" width="30%"}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -129,7 +128,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 吕建相
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="30%" width="30%"}
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
@@ -145,7 +144,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 张婉婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="30%" width="30%"}
 
 - Email: zhangwt37@mail2.sysu.edu.cn
 
@@ -155,18 +154,18 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 李嘉锡（大气学院）
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡.jpg){:height="30%" width="30%"}
 
 - Email: 
 
 个人说明
 <br>
 ## 张伊茜（人类学系）
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张伊茜.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/张伊茜.jpg){:height="30%" width="30%"}
 
-- Email: 
+- Email: 1324007273@qq.com
 
-个人说明
+18级社会学与人类学学院人类学系本科生。一个正宗的长沙妹子，吃得苦霸得蛮。热爱心理学，希望能够通过之后的学习，将人类学与心理学两门学科融会贯通。对儿童心理与认知发展有浓厚的兴趣。
 
 
 
