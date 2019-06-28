@@ -274,14 +274,24 @@ defaults:
       path: ""
       type: pages
     values:
+      sidebar:
+        - title: "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+          image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
+          image_alt: "BCD lab logo"
+          nav: "docs"
+      author_profile: false
       layout: single
       classes: wide
-      author_profile: true
   # _posts
   - scope:
       path: ""
       type: posts
     values:
+      sidebar:
+        - title: "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+          image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
+          image_alt: "BCD lab logo"
+          nav: "docs"
       layout: single
       classes: wide
       author_profile: true
@@ -295,10 +305,13 @@ defaults:
       type: docs
     values:
       sidebar:
-        nav: "docs"
+        - title: "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+          image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
+          image_alt: "BCD lab logo"
+          nav: "docs"
+      author_profile: false
       layout: single
       classes: wide
       read_time: false
-      author_profile: false
       share: false
       comments: false
