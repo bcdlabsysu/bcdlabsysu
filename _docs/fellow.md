@@ -137,7 +137,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 肖慧兰
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/肖慧兰.jpg){:height="50%" width="50%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/肖慧兰.jpg){:height="30%" width="30%"}
 
 - Email: @mail2.sysu.edu.cn
 
