@@ -4,7 +4,7 @@ last_modified_at: 2019-03-07T20:00:00+08:00
 
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/assert/images/实验室logo带字.jpg){:height="50%" width="50%"}<div aligh=center>
+![]({{ site.url }}{{ site.baseurl }}/assert/images/实验室logo带字.jpg){:height="50%" width="50%"}
 
 <br>
 中山大学脑与认知发展实验室（Brain and Cognitive Development Lab)成立于2017年10月，位于中山大学东校区心理学系。我们主要研究数、空间和逻辑推理等认知能力从婴儿到成人的发展变化。比如，我们想知道小宝宝还不会说话时能不能区分数量多少；两三岁的孩子是如何学数数和进行空间推理的；这些能力跟孩子入学后的学习表现有什么样的关系；家长的教育教养方式对儿童认知发展的影响；不同文化/语言环境中儿童和成人认知发展的异同等等。
