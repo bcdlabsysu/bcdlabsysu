@@ -10,7 +10,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 牟毅
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/牟毅.jpg){:height="40%" width="40%"}
 
 - Email: mouyi5@mail.sysu.edu.cn
 
@@ -27,7 +27,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 郭芳芳
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
 
 - Email: 
 
@@ -35,7 +35,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 蒋映盈
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="40%" width="40%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
@@ -43,7 +43,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 李沛沛
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李沛沛.jpg){:height="40%" width="40%"}
 
 - Email: lipeipei@gd.chinamobile.com
 
@@ -52,7 +52,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘美莹
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹.jpg){:height="40%" width="40%"}
 
 - Email: 
 
@@ -60,7 +60,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 毛伙敏
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="40%" width="40%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
@@ -69,13 +69,13 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 娜菲沙·阿布都麦明
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/娜菲沙.jpg){:height="40%" width="40%"}
 
 就读于中大心理系，2018级专硕。我喜欢看剧看书，偶尔会去游泳，很喜欢和小朋友打交道。目前的研究兴趣是文化和语言差异对儿童数理认知发展的影响。
 <br>
 ## 曾丽萍
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/曾丽萍.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/曾丽萍.jpg){:height="40%" width="40%"}
 
 - Email:victory88855@126.com
 
@@ -84,7 +84,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 陈光
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="40%" width="40%"}
 
 - Email: 825999464@qq.com
 
@@ -92,7 +92,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 陈诗婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/陈诗婷.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/陈诗婷.jpg){:height="40%" width="40%"}
 
 - Email: avrinchen2017@163.com
 
@@ -100,7 +100,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 李和泽
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李和泽.jpg){:height="40%" width="40%"}
 
 - Email: 1192409005@qq.com
 
@@ -108,7 +108,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘梦婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘梦婷.jpg){:height="40%" width="40%"}
 
 - Email: liumt8@mail2.sysu.edu.cn
 
@@ -118,7 +118,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 刘琴
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘琴.jpg){:height="40%" width="40%"}
 
 - Email: liuq258@mail2.sysu.edu.cn
 
@@ -128,7 +128,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 吕建相
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/吕建相.jpg){:height="40%" width="40%"}
 
 - Email: lvjx6@mail2.sysu.edu.cn
 
@@ -136,7 +136,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 肖慧兰
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/肖慧兰.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/肖慧兰.jpg){:height="40%" width="40%"}
 
 - Email: @mail2.sysu.edu.cn
 
@@ -144,7 +144,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 张婉婷
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/张婉婷.jpg){:height="40%" width="40%"}
 
 - Email: zhangwt37@mail2.sysu.edu.cn
 
@@ -154,14 +154,14 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 ## 李嘉锡（大气学院）
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡.jpg){:height="40%" width="40%"}
 
 - Email：lijiaxisysu@foxmail.com
 
 中山大学2016级大气科学学院应用气象专业本科生。希望发挥在大气科学领域所习得的统计分析技术、所培养的对于数据的敏感性，在未来的心理学学习乃至工作中走的更远。感兴趣的领域是儿童的智能发展、基于应用行为分析的孤独症儿童早期密集干预、孤独症儿童的数能力发展、孤独症儿童的视觉信息处理、孤独症儿童的执行功能；期待在未来有机会探索基于机器学习和人工智能的孤独症儿童能力评估方法、人工智能与孤独症疗育的结合等。
 <br>
 ## 张伊茜（人类学系）
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张伊茜.jpg){:height="30%" width="30%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/张伊茜.jpg){:height="40%" width="40%"}
 
 - Email: 1324007273@qq.com
 
