@@ -177,7 +177,8 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 <br>
 ## 蔡雨涵（心理学系）
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/蔡雨涵.jpeg){:height="40%" width="40%"}
-Email：Caiyh39@mail2.sysu.edu.cn
+
+- Email：Caiyh39@mail2.sysu.edu.cn
 中山大学18级心理学专业本科生。热爱心理学，对人的心理发展过程和抑郁症等心理疾病的成因与治疗有一定的兴趣，并希望在以后的学习中有更深入的了解。目前加入了脑与认知实验室的“融入数学史的小学教育”项目。
 
 
