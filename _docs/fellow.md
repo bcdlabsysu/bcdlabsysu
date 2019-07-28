@@ -174,7 +174,6 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 - Email：chenrx33@mail2.sysu.edu.cn
 
 2018级本科生。爱好阅读、长跑，喜欢和小朋友相处。已修过发展心理学、实验心理学等专业课，目前参与牟老师组的《融入数学史的小学数学教育》研究项目。
-
 <br>
 ## 蔡雨涵（心理学系）
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/蔡雨涵.jpg){:height="40%" width="40%"}
