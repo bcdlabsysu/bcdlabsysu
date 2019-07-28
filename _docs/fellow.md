@@ -177,7 +177,7 @@ last_modified_at: 2019-02-27T19:00:00+08:00
 
 <br>
 ## 蔡雨涵（心理学系）
-![]({{ site.url }}{{ site.baseurl }}/assert/images/蔡雨涵.jpeg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/蔡雨涵.jpg){:height="40%" width="40%"}
 
 - Email：Caiyh39@mail2.sysu.edu.cn
 
