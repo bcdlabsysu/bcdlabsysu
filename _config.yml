@@ -266,6 +266,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -275,7 +278,7 @@ defaults:
       type: pages
     values:
       sidebar:
-        - title: "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
@@ -288,7 +291,7 @@ defaults:
       type: posts
     values:
       sidebar:
-        - title: "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
@@ -305,7 +308,23 @@ defaults:
       type: docs
     values:
       sidebar:
-        - title: "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+          image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
+          image_alt: "BCD lab logo"
+          nav: "docs"
+      author_profile: false
+      layout: single
+      classes: wide
+      read_time: false
+      share: false
+      comments: false
+  # _docs
+  - scope:
+      path: ""
+      type: news
+    values:
+      sidebar:
+        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
