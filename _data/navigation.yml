@@ -13,6 +13,8 @@ main:
     url: /contact_us/
 
 docs:
+  - title: 首页
+    url: /
   - title: 新闻
     url: /developments/
   - title: 项目
