@@ -63,7 +63,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘珊.jpg){:height="40%" width="40%"}
 
-- Email: @mail.sysu.edu.cn
+- Email: liush279@mail2.sysu.edu.cn
 
  2019级学硕。本科期间就读于市场营销专业。2013年至2018年在金宝贝国际早教工作，主要负责早教中心的管理及运营。选择跨入心理学是因为过去几年的工作中跟0-3岁孩子接触很多，激发了我对发展心理学的兴趣。非常渴望从这门学科中探索更多儿童成长的奥秘，也希望在BCD lad与伙伴们共同学习和探讨儿童研究的心理学方法。
 <br>
