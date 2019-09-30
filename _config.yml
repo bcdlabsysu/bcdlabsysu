@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "中山大学心理学系脑与认知发展实验室 <br /> Brain and Cognitive Development Lab at SYSU"
+title                    : "脑与认知发展实验室 <br /> Brain and Cognitive Development Lab"
 title_separator          : "-"
 logo                     : # "/assert/images/lab_name.jpg"
 name                     : "BCD lab"
@@ -278,7 +278,7 @@ defaults:
       type: pages
     values:
       sidebar:
-        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
@@ -308,7 +308,7 @@ defaults:
       type: docs
     values:
       sidebar:
-        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
@@ -324,7 +324,7 @@ defaults:
       type: news
     values:
       sidebar:
-        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
