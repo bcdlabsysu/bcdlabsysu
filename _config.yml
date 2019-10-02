@@ -132,6 +132,12 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+# Site Footer
+footer:
+  links:
+    - label: "粤ICP备19122021号"
+      icon: "fa-address-book-o"
+      url: "http://www.beian.miit.gov.cn"
 
 # Reading Files
 include:
