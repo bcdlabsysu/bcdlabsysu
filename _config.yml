@@ -103,7 +103,7 @@ analytics:
 author:
   name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "中山大学心理学系脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+  bio              : # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
   location         : # "Somewhere"
   email            : 
   uri              : # http://222.200.170.55:8081/
@@ -291,7 +291,7 @@ defaults:
       type: posts
     values:
       sidebar:
-        - title: # "中山大学心理学系<br>脑与认知发展实验室 <br> Brain and Cognitive Development Lab at SYSU"
+        - title: # "脑与认知发展实验室 <br> Brain and Cognitive Development Lab"
           image: "https://bcdlabsysu.github.io/bcdlabsysu/assert/images/BCD lab logo——webite.png"
           image_alt: "BCD lab logo"
           nav: "docs"
