@@ -110,6 +110,14 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 
 # 本科生(按姓氏字母排序)
 
+## 敖睿
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/敖睿.jpg){:height="40%" width="40%"}
+
+- Email: aorui3@mail2.sysu.edu.cn
+
+中山大学2017级本科生，学过发展心理学，实验心理学等课程，喜欢打篮球、游泳和画画。对发展心理学很感兴趣，将来也打算走发展心理学的方向。
+<br>
 ## 陈光
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/陈光.jpg){:height="40%" width="40%"}
