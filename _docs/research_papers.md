@@ -21,5 +21,3 @@ last_modified_at: 2020-05-11T14:00:00+08:00
 - Hyde, D. C. & Mou, Y. (2015). Neural and behavioral signatures core numerical abilities and early numerical development. In D. B. Berch, D. C. Geary, & K. Mann Koepke (Eds.), *Mathematical Cognition and Learning*, Volume 2 (pp. 51-77). Elsevier.
 - Mou, Y., & vanMarle, K. (2014). Two core systems of numerical representation in infants. *Developmental* *Review, 34,1-25*.[pdf](https://bcdlabsysu.github.io/bcdlabsysu/assert/papers/Two core systems of numerical representation in infants..pdf)
 - Mou, Y., Province, J., & Luo, Y. (2014). Can infants make transitive inferences? *Cognitive Psychology, 68, 98-112*.[pdf](https://bcdlabsysu.github.io/bcdlabsysu/assert/papers/Can infants make transitive inferences.pdf)
-- Zhu, L., Huangfu, G, Keller, M., Mou, Y., & Chen, D. (2008). The development of Chinese children’s decision-making in ultimatum and dictator games. *Acta Psychologica Sinica*, *40*, 402-408.[pdf]
-
