@@ -23,7 +23,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 - 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
 
 <br>
-##李雪岩
+## 李雪岩
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpg){:height="40%" width="40%"}
 
