@@ -68,7 +68,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 <br>
 ## 刘美莹
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹.jpg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹1.jpg){:height="40%" width="40%"}
 
 - Email: 461024083@qq.com
 
