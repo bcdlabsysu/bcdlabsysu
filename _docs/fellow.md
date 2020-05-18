@@ -25,7 +25,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 <br>
 ## 李雪岩
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpeg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpg){:height="40%" width="40%"}
 
 - Email: lixy563@mail.sysu.edu.cn
 
@@ -92,11 +92,11 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 <br>
 ## 毛伙敏
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏.jpg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏1.jpg){:height="40%" width="40%"}
 
 - Email: maohm@mail2.sysu.edu.cn
 
-生产地是广东。2015年起在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”
+生产地是广东。2015年起在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”。
 目前对数学史以及儿童认知能力发展的城乡差异领域感兴趣。
 <br>
 ## 娜菲沙·阿布都麦明
