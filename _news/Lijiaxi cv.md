@@ -1,7 +1,7 @@
-title	permalink
+
 李嘉锡
-/news/Lijiaxi cv/
 Jiaxi Li
+
 DOB: 1998.02.01          Tel:18988658827          Email: lijx79@mail2.sysu.edu.cn
 
 EDUCATION
