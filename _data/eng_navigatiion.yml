@@ -1,1 +1,30 @@
+main:
+  - title: Developments
+    url: /developments/
+  - title: Research projects
+    url: /research_projects/
+  - title: Research papers
+    url: /research_papers/
+  - title: Fellow
+    url: /fellow/
+  - title: Collaborators
+    url: /collaborators/
+  - title: contact us
+    url: /contact_us/
+
+docs:
+  - title: Menu
+    url: /
+  - title: Developments
+    url: /developments/
+  - title: Researchprojects
+    url: /research_projects/
+  - title: Research papers
+    url: /research_papers/
+  - title: Fellow
+    url: /fellow/
+  - title: Collaborators
+    url: /collaborators/
+  - title: Contact us
+    url: /contact_us/
 
