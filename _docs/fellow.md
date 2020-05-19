@@ -157,7 +157,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 <br>
 ## 李嘉锡（大气学院）
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡.jpg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/李嘉锡1.jpg){:height="40%" width="40%"}
 
 - Email：lijiaxisysu@foxmail.com
 
