@@ -27,6 +27,7 @@ permalink: /news/aoruicv.md/
 功能连接对工作记忆以及加工速度的影响这两个方面的研究现状。已有的研究表明，随着年龄的增长，工作记忆能力的下降与相关脑区的一致性降低或者功能连接的动态变化能力减弱有关。对于加工速度，随着年龄的增长，加工速度的减慢与网络内的功能连接减弱以及网络间的功能连接增强有关）
 
 社会实践：
+
 2017.07-2017.09  “小明教育”高中物理辅导老师
 
 2019.07-2019.09  东莞市“鱼可渝”餐厅前台管理
@@ -53,10 +54,14 @@ Scientific Research Experience
 2019.05-2019.07   The Factors that Affect Whether Individuals Change Their Behavior During High Cognitive Dissonance（Designed experiments, collected data and analyzed them；Results: when social environment supports action changes, individuals are more likely to take action to reduce the pain caused by cognitive dissonance）
 
 2019.05-2019.06    Analysis of Employee Turnover Factors Based on Logistic Regression（Data analysis; Results: our study reveals positive relationships between number of business travels or overtime and employee turnover, and negative relationships between career satisfaction, work environment satisfaction, career participation, relationship satisfaction, employee stock ownership ratio, job level and employee turnover. A significant moderating effect of interpersonal communication on the relationship between job satisfaction and resignation.）
+
 2019.12-2020.01    Evaluation and Implementation Plan of "golden course" in Universities（Designed the advanced and innovative evaluation plan）
+
 2019.10-2019.12   Review: Changes in Brain Network Function Connectivity over a Person's Lifetime and Its Impact on Individual Cognitive Function（Results：As for the effect of functional connectivity on cognitive function with age, the research status of functional connectivity on working memory and processing speed is mainly reported. Studies have shown that The decline in working memory capacity with age is associated with a decrease in the consistency of the brain regions involved or a decrease in the ability to dynamically change functional connections. For the processing speed, with the growth of age, the slowing down of the processing speed is related to the weakening of the functional connection within the network and the strengthening of the functional connection between the networks.）
 
 Social Practice
+
 2017.07-2017.09    Teaching high school physics in Xiaoming tutoring center
+
 2019.07-2019.09    Manager of the Yu Ke Yu Restaurant in Dongguan
 
