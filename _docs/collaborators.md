@@ -1,6 +1,6 @@
 ---
 permalink: /collaborators/
-title: "cooperative units"
+title: "合作单位"
 last_modified_at: 2019-02-27T19:00:00+08:00
 
 
