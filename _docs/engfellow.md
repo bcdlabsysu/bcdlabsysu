@@ -23,43 +23,37 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 - 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
 
 <br>
-## 李雪岩
+## Li, Xueyan
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpg){:height="40%" width="40%"}
 
 - Email: lixy563@mail.sysu.edu.cn
 
-研究方向有成人及儿童的情绪调节与发展；自闭症儿童的认知发展；自闭症儿童的情绪识别、调节、发展。
+Research areas include emotion regulation among children and adults; cognitive development of children with autism spectrum disorder(ASD); emotion recognition, emotion processing, and emotion development among children with ASD.
 
-学习经历：
 
-- 2020-至今  中山大学心理学系博士后研究员
+- 2020-present  Postdoc in Psychology, Sun Yat-sen Univeristy
 
-- 2016-2020 美国 亚利桑那大学 教育心理学系 博士
+- 2016-2020  Ph.D., Educational Psychology, University of Arizona
 
 
 # 研究生(按姓氏字母排序)
 
-## 郭芳芳
+## Guo, Fangfang
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/郭芳芳.jpg){:height="40%" width="40%"}
 
-- Email: 924592986@qq.com
+- Email: guoff3@mail2.sysu.edu.cn
 
-Graduate of 2019. Research interests: cognitive development in infants, intervention in children with autism spectrum disorders, 
-and intervention in children with learning disabilities. I hope I can further study applied behavior analysis in the future and 
-explore more new research interests in psychology.
+A master student in Applied Psychology (class of 2021). I love children and yearn for nature. My research interests are:(1) Intervention for Children with Autism Spectrum Disorder(ASD), such as on Joint Attention Intervention; (2) the Acceptability and Feasibility of Parent-Mediated Intervention for ASD; (3) Core Deficits and Their Potential Cognitive Mechanisms in children with ASD. I plan to systematically study ASD and applied behavior analysis in my master program, hoping to further explore the mechanism of deficits of ASD and explore more effective and practical interventions in order to help people in need.
 <br>
-## 蒋映盈
+## Jiang, Yingying
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/蒋映盈.jpg){:height="40%" width="40%"}
 
 - Email: jiangyy39@mail2.sysu.edu.cn
 
-A graduate student from sichuan who can't eat too much spicy food. The research direction I am interested in is the difference in psychological mechanism between children's abacus mental arithmetic learning and their regular mathematical learning,
-whether abacus mental arithmetic training can promote learners' ability to convert between symbols and non-symbols, and whether abacus mental arithmetic learning has positive intervention effect on individuals with attention deficit disorder (ADD).
-The role of gesture in children's mathematics learning and its cognitive mechanism; And the real relationship between the approximate number system (ANS) and the future mathematical learning in the early stage of individuals' non-verbal number cognition,
-as well as the influence of different ANS measurement tasks on the relationship between them. I am looking forward to having more partners join BCD Lab in the future!
+The research topics that I’m interested in are the mental-mechanism differences between children’s learning mental abacus calculation (MAC) and learning formal mathematical skills; whether MAC learning has positive effect on individual’s ability of mapping symbolic and non-symbolic representations; and whether MAC is an effective intervention for individuals with ADHD. I am also interested in what role gesture plays in the process of math learning and its relevant cognitive mechanisms and the real link between one of the innate non-verbal numerical cognition (i.e., the approximate number system (ANS)) and children’s later math learning. Come and join us! 
 <br>
 ## 李沛沛
 
@@ -76,13 +70,13 @@ the relationship between children's mathematics and spatial logic cognitive deve
 children's intelligence development, children's numerical ability and language ability, 
 gender difference, and the way of home and school education.
 <br>
-## 刘美莹
+## Liu, Meiying
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/刘美莹1.jpg){:height="40%" width="40%"}
 
 - Email: 461024083@qq.com
 
-19级应用心理硕士研究生。是一个超级爱笑的四川姑娘，非常喜欢和小朋友相处，对世界充满好奇和耐心。目前的研究兴趣是神经发育障碍儿童（特别是孤独症谱系障碍儿童）的评估和干预。孤独症儿童被称为“来自星星的儿童”，我希望自己可以做那个读懂星星的人。希望可以遇到志同道合的朋友，一起做研究鸭！
+A master student in applied psychology. I am an optimistic and outgoing girl from Sichuan province,  who likes to get along with children and is full of curiosity and patience with the world. My current research interest is in the evaluation and intervention of children with neuro- developmental disorders, especially those with autism spectrum disorders. Children with autism are called "children from the stars". I hope I can be the one who can read the stars. Hope to meet like-minded friends and do research together!
 <br>
 ## 刘珊
 
@@ -98,13 +92,19 @@ gender difference, and the way of home and school education.
 
 - Email: maym5@mail2.sysu.edu.cn
 
-2019级心理学系专业硕士。我来自广东汕头，喜欢与小朋友交流，愿意当他们的朋友。我感兴趣的方向是发展心理学与认知心理学。毕业后我打算从事教育教研工作，致力于设计出更加符合学习者认知的教材。同时我也对咨询方向感兴趣。很高兴能跟着老师，与小组成员一起进步！
+Ma is a master student in psychology, holds a bachelor’s degree in English, and is now working in BCD lab. 
+She is interested in origins and development of concept and reasoning of human beings. Her recent work uses behavioral methods to probe pre-school children’s knowledge of natural number, especially numerical symbols and ordinality.
+Ma dedicates herself to better teaching and learning, and is now researching and developing mathematical textbook for preschool children.
+
 <br>
-## 毛伙敏
+## Mao, Huomin
 
 ![]({{ site.url }}{{ site.baseurl }}/assert/images/毛伙敏1.jpg){:height="40%" width="40%"}
 
 - Email: maohm@mail2.sysu.edu.cn
+
+I am interested in the urban-rural differences of children’s cognitive ability development,	math history, and developmental psychology. [Click for CV](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
+
 
 生产地是广东。2015年起在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”。
 目前对数学史以及儿童认知能力发展的城乡差异领域感兴趣。
