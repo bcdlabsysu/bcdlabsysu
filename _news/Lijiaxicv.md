@@ -1,4 +1,7 @@
-
+---
+title: "李嘉锡个人简介"
+permalink: /news/Lijiaxicv.md/
+---
 李嘉锡
 Jiaxi Li
 
