@@ -1,5 +1,5 @@
 ---
-permalink: /fellow/
+permalink: /engfellow.md/
 title: "members"
 last_modified_at: 2019-09-3T19:00:00+08:00
 
