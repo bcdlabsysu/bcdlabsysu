@@ -1,5 +1,5 @@
 ---
-permalink: /collaborators/
+permalink: /eng_collaborators.md/
 title: "cooperation"
 last_modified_at: 2019-02-27T19:00:00+08:00
 
