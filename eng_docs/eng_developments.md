@@ -1,5 +1,5 @@
 ---
-permalink: /eng_developments/
+permalink: /eng_developments.md/
 title: "News"
 last_modified_at: 2020-05-11T14:00:00+08:00
 
