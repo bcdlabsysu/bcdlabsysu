@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-permalink: /research_projects/
+permalink: /research_projects.md/
 last_modified_at: 2019-02-27T19:00:00+08:00
 
 ---
