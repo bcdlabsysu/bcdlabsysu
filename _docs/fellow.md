@@ -97,7 +97,7 @@ last_modified_at: 2019-09-3T19:00:00+08:00
 - Email: maohm@mail2.sysu.edu.cn
 
 生产地是广东。2015年起在中山大学心理学系念本科，对世界充满好奇心，觉得“满足好奇心的过程十分快乐”。
-目前对数学史以及儿童认知能力发展的城乡差异领域感兴趣。
+目前对数学史以及儿童认知能力发展的城乡差异领域感兴趣。[个人简历请见](https://bcdlabsysu.github.io/bcdlabsysu/news/maohuomincv.md/)
 <br>
 ## 娜菲沙·阿布都麦明
 
