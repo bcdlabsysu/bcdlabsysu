@@ -29,7 +29,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 - Email: lixy563@mail.sysu.edu.cn
 
-My research areas include emotion regulation among children and adults; cognitive development of children with autism spectrum disorder(ASD); emotion recognition, emotion processing, and emotion development among children with ASD.
+Research areas that interest me include emotion regulation among children and adults; cognitive development of children with autism spectrum disorder(ASD); emotion recognition, emotion processing, and emotion development among children with ASD.
 
 
 - 2020-present  Postdoc in Psychology, Sun Yat-sen Univeristy
