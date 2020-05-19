@@ -1,6 +1,6 @@
 ---
 title: " 郭芳芳个人简介"
-permalink: /news/guofangfang.md/
+permalink: /news/guofangfangcv.md/
 ---
 
 郭芳芳
