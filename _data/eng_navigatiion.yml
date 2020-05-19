@@ -1,30 +1,30 @@
 main:
   - title: Developments
-    url: /developments/
+    url: /eng_developments.md/
   - title: Research projects
-    url: /research_projects/
+    url: /eng_research_projects.md/
   - title: Research papers
-    url: /research_papers/
+    url: /eng_research_papers.md/
   - title: Fellow
-    url: /fellow/
+    url: /eng_fellow.md/
   - title: Collaborators
-    url: /collaborators/
+    url: /eng_collaborators.md/
   - title: contact us
-    url: /contact_us/
+    url: /eng_contact_us.md/
 
 docs:
   - title: Menu
     url: /
   - title: Developments
-    url: /developments/
+    url: /eng_developments.md/
   - title: Researchprojects
-    url: /research_projects/
+    url: /eng_research_projects.md/
   - title: Research papers
-    url: /research_papers/
+    url: /eng_research_papers.md/
   - title: Fellow
-    url: /fellow/
+    url: /eng_fellow.md/
   - title: Collaborators
-    url: /collaborators/
+    url: /eng_collaborators.md/
   - title: Contact us
-    url: /contact_us/
+    url: /eng_contact_us.md/
 
