@@ -11,6 +11,8 @@ main:
     url: /collaborators/
   - title: 联系我们
     url: /contact_us/
+  - title: English
+    url: https://bcdlabsysu.github.io/bcdlabsysu-en/
 
 docs:
   - title: 首页
@@ -27,3 +29,5 @@ docs:
     url: /collaborators/
   - title: 联系我们
     url: /contact_us/
+   - title: English
+   url: https://bcdlabsysu.github.io/bcdlabsysu-en/
