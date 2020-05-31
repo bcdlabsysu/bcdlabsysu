@@ -12,7 +12,7 @@ main:
   - title: 联系我们
     url: /contact_us/
   - title: English
-    url: https://bcdlabsysu.github.io/bcdlabsysu-en/
+    url: "https://bcdlabsysu.github.io/bcdlabsysu-en/"
 
 docs:
   - title: 首页
@@ -30,4 +30,4 @@ docs:
   - title: 联系我们
     url: /contact_us/
    - title: English
-   url: https://bcdlabsysu.github.io/bcdlabsysu-en/
+   url: "https://bcdlabsysu.github.io/bcdlabsysu-en/"
