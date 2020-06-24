@@ -69,7 +69,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 林婉君
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/林婉君.png){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/林婉君.jpeg){:height="40%" width="40%"}
 
 - Email: 835115067@qq.com
 
@@ -140,7 +140,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 张琳
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/张琳.png){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/张琳.jpeg){:height="40%" width="40%"}
 
 - Email:2901493954@qq.com
 
