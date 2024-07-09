@@ -59,7 +59,8 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/昀晓江 jpg)){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/(https://github.com/bcdlabsysu/bcdlabsysu/assets/43290577/edde93de-cc3f-45b8-a32d-339a1a125320)){:height="40%" width="40%"}
+
 - Email: jiangxy225@mail2.sysu.edu.cn
 
  2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。
@@ -90,7 +91,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 赵冰清
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/清冰赵.jpg)){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/![清冰赵 jpg](https://github.com/bcdlabsysu/bcdlabsysu/assets/43290577/bed6846d-b122-47b9-a9aa-5a2251600868)){:height="40%" width="40%"}
 
 - Email：zhaobq7@mail2.sysu.edu.cn
 - 2022-至今  中山大学心理学系 硕士研究生在读
