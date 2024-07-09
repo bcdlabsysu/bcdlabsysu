@@ -22,21 +22,6 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 - 2014-2017 美国伊利诺大学香槟校区心理学系（博士后）
 
-<br>
-## 李雪岩
-
-![]({{ site.url }}{{ site.baseurl }}/assert/images/李雪岩.jpg){:height="40%" width="40%"}
-
-- Email: lixy563@mail.sysu.edu.cn
-
-研究方向有成人及儿童的情绪调节与发展；自闭症儿童的认知发展；自闭症儿童的情绪识别、调节、发展。
-
-学习经历：
-
-- 2020-至今  中山大学心理学系博士后研究员
-
-- 2016-2019 美国亚利桑那大学教育心理学系（博士）
-
 
 # 博士生
 
@@ -59,34 +44,12 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/![江 jpg](https://github.com/bcdlabsysu/bcdlabsysu/assets/43290577/30aa46a2-068c-42ec-b89c-de2872f486ec)){:height="40%" width="40%"}
+]({{ site.url }}{{ site.baseurl }}/assert/images/kelly.jpg){:height="40%" width="40%"}
+
 - Email: jiangxy225@mail2.sysu.edu.cn
 
  2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。
  
-<br>
-## 刘珊
-
-![]({{ site.url }}{{ site.baseurl }}/assert/images/刘珊.jpg){:height="40%" width="40%"}
-
-- Email: liush279@mail2.sysu.edu.cn
-
- 2019级学硕。本科期间就读于市场营销专业。2013年至2018年在金宝贝国际早教工作，主要负责早教中心的管理及运营。选择跨入心理学是因为过去几年的工作中跟0-3岁孩子接触很多，激发了我对发展心理学的兴趣。非常渴望从这门学科中探索更多儿童成长的奥秘，也希望在BCD lad与伙伴们共同学习和探讨儿童研究的心理学方法。
- 
-<br>
-## 王许晴
-
-![]({{ site.url }}{{ site.baseurl }}/assert/images/王许晴.jpg){:height="40%" width="40%"}
-
-- Email: wangxuqing139@163.com
-
-2020级应用心理硕士研究生。本科就读于材料科学与工程专业，但更沉醉于心理学强大的内在力量。
-我的研究兴趣是：
-1.	儿童数学、逻辑、思维等认知能力的发展
-2.	家庭教育理念和方式对儿童数学学习的影响
-3.	正常儿童与自闭症儿童数学认知差异等
-在未来渴望从事儿童数学教学和课程开发工作，所以非常开心能够和BCD实验室的小伙伴一起探索儿童数认知发展的奥秘。
-
 <br>
 ## 赵冰清
 
