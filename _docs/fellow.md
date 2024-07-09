@@ -59,7 +59,7 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/江晓昀.jpg)){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/江晓昀.jpg){:height="40%" width="40%"}
 
 - Email: jiangxy225@mail2.sysu.edu.cn
 
