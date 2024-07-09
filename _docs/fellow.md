@@ -59,11 +59,11 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/江晓昀.jpg){:height="40%" width="40%"}
+![]({{ site.url }}{{ site.baseurl }}/assert/images/江晓昀昀.jpg){:height="40%" width="40%"}
 
 - Email: jiangxy225@mail2.sysu.edu.cn
 
- 2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。![赵冰清 jpg](https://github.com/bcdlabsysu/bcdlabsysu/assets/43290577/b15067ea-b5b7-4cbf-b962-af2096b6d7b7)
+ 2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。
 
 
 <br>
