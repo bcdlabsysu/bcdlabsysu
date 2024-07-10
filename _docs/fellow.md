@@ -44,8 +44,6 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
-]({{ site.url }}{{ site.baseurl }}/assert/images/kelly.jpg){:height="40%" width="40%"}
-
 - Email: jiangxy225@mail2.sysu.edu.cn
 
  2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。
@@ -53,9 +51,8 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 <br>
 ## 赵冰清
 
-![]({{ site.url }}{{ site.baseurl }}/assert/images/![赵 jpg](https://github.com/bcdlabsysu/bcdlabsysu/assets/43290577/9f939b42-d37d-4263-a351-2255aeb4081c)){:height="40%" width="40%"}
-
 - Email：zhaobq7@mail2.sysu.edu.cn
+
 - 2022-至今  中山大学心理学系 硕士研究生在读
 - 2018-2022 中山大学心理学系 本科
   研究方向：发展与教育心理学，符号与非符号数量表征机制，数字空间联合编码(SNARC)效应。
