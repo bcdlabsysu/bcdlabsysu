@@ -53,12 +53,17 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 江晓昀
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/江晓昀.jpg){:height="40%" width="40%"}
+
 - Email: jiangxy225@mail2.sysu.edu.cn
 
  2023级应用心理硕士研究生，本科毕业于华南理工大学计算机科学与工程学院。AKA孩子王，研究兴趣是学前儿童的数认知及其数学计算能力的发展。
 
 <br>
 ## 席祎
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/席祎.jpg){:height="40%" width="40%"}
+
 - Email：18975458842@163.com
 
 2024级应用心理专业硕士研究生，本科毕业于中南大学能源科学与工程学院。
@@ -67,6 +72,8 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 ## 赵冰清
 
 - Email：zhaobq7@mail2.sysu.edu.cn
+
+![]({{ site.url }}{{ site.baseurl }}/assert/images/赵冰清1.jpg){:height="40%" width="40%"}
 
 - 2022-至今  中山大学心理学系 硕士研究生在读
 - 2018-2022 中山大学心理学系 本科
