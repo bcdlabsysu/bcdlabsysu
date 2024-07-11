@@ -27,6 +27,8 @@ last_modified_at: 2020-05-19T19:00:00+08:00
 
 ## 韩琦
 
+![]({{ site.url }}{{ site.baseurl }}/assert/images/韩琦1.jpg){:height="40%" width="40%"}
+
 - Email：1187152321@qq.com
 
 应用心理学学士。主要的研究兴趣是儿童认知、教育心理学。
